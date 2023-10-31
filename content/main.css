@@ -124,4 +124,11 @@ section .box {
 		height: 25rem;
 	}
   }
-
+/* Mobile -700px*/
+  @media only screen and (max-width: 700px) {
+	.hdr-hed {
+		text-align: center;
+		margin: auto;
+		position:relative;
+	}
+  }
